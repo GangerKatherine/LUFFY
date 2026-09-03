@@ -54,7 +54,7 @@ LUFFY/
 - **FSDP Training**: Model loading and distributed training setup
 - **Data Processing**: Batch dimension operations and tensor reshaping (core fold/unfold implemented; optimizations and error handling remain)
 
-## 📝 Complete TODO List
+### 📝 Complete TODO List
 
 - [ ] **luffy/deepscaler/utils.py:45** - TODO: Add logging for API calls and errors
 - [ ] **luffy/deepscaler/utils.py:46** - TODO: Support batch processing for multiple prompts
